@@ -1,0 +1,17 @@
+{
+  "name": "dvdstarter-sui",
+  "version": "1.0.0",
+  "description": "dvdstarter sui helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mysten/bcs": "^0.11.1",
+    "crypto-js": "^4.2.0",
+    "js-sha3": "^0.9.3",
+    "merkletreejs": "^0.3.11"
+  }
+}
